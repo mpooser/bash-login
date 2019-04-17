@@ -4,8 +4,11 @@ export PATH=$PATH:usr/local/Cellar/gcc/8.3.0/bin
 # LS Colors
 export LSCOLORS="exfxcxdxbxxxexgxgxexex"
 
+# Aliases
 alias ll="ls -lGH"
 alias ls="ls -GH"
+alias ca="conda activate"
+alias cdd="conda deactivate"
 
 # added by Anaconda3 2019.03 installer
 # >>> conda init >>>
