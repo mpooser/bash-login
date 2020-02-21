@@ -1,0 +1,9 @@
+# Bash Profile
+
+# Exports
+export LOCAL_HOME=/home/androiddata3550/.local/ 
+
+export PATH=$LOCAL_HOME/bin:$PATH
+
+## Aliases
+alias ll='ls -l'

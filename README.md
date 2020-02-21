@@ -1,3 +1,3 @@
-# bash-login
+# bash-login files
 
-Backup just in case my .bash_login gets corrupted
+Backups from three platforms just in case my .bash_login gets corrupted for any of them.
